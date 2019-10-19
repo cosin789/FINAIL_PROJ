@@ -1,0 +1,208 @@
+ #pic {
+     float: right;
+     margin: -100px -150px 0 150px;
+ }
+
+ .clear {
+     clear: both;
+     color: brown;
+     ;
+ }
+
+ dd {
+     width: 75%;
+     float: right;
+ }
+
+ dd.clear {
+     float: none;
+     margin: 5px;
+     height: 5px;
+ }
+
+ dt {
+     font-style: italic;
+     font-weight: bold;
+     font-size: 18px;
+     text-align: right;
+     padding: 0 26px 0 0;
+     width: 250px;
+     float: left;
+     border-right: 2px solid #999;
+ }
+
+ h1 {
+     margin: 0 0 16px 0;
+     padding: 0 0 16px 0;
+     font-size: 42px;
+     font-weight: bold;
+     letter-spacing: -2px;
+     border-bottom: 1px solid #999;
+ }
+
+ h2 {
+     font-size: 20px;
+     margin: 0 0 6px 0;
+     position: relative;
+ }
+
+ h3 span {
+     position: absolute;
+     bottom: 0;
+     right: 0;
+     font-style: italic;
+     font-family: Georgia, Serif;
+     font-size: 16px;
+     color: #999;
+     font-weight: normal;
+ }
+
+ h3 {
+     font-size: 20px;
+     margin: 0 0 6px 0;
+     position: relative;
+ }
+
+ #page-wrap {
+     width: 800px;
+     margin: 40px auto 60px;
+ }
+
+ #objective {
+     width: 1000px;
+     float: left;
+ }
+
+ #objective p {
+     font-family: Georgia, Serif;
+     font-style: italic;
+     color: #666;
+ }
+
+ .test {
+     margin: 0 0 16px 0;
+     padding: 0 0 16px 0;
+     font-size: 26px;
+     letter-spacing: 2px;
+     border-bottom: 1px solid #999;
+ }
+
+ .box {
+     position: fixed;
+     top: 87%;
+     right: 20%;
+     padding: 1em;
+     background: #f1f1f1;
+ }
+
+ .box a {
+     width: 2em;
+     height: 2em;
+     float: left;
+     text-indent: -9999px;
+     margin: 0em;
+     cursor: pointer;
+ }
+
+ #red {
+     background: #e74c3c;
+ }
+
+ #blue {
+     background: #3498db;
+ }
+
+ #white {
+     background: #FFFFFF;
+ }
+
+ #yellow {
+     background: #f1c40f;
+ }
+
+ .CELL:hover {
+     color: crimson;
+     transition: 0.3s;
+ }
+
+ #DATE:hover {
+     color: crimson;
+     transition: 0.3s;
+     background-color: mintcream;
+     width: 550px;
+
+ }
+
+ #testing {
+     float: left;
+     color: #333333;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 17px;
+
+     width: 1000px;
+ }
+
+ #testing:hover {
+     color: crimson;
+     transition: 0.3s;
+ }
+
+
+ .fn {
+     background-color: tomato;
+     text-align: center;
+     width: 1000px;
+     float: left;
+     display: inline-block;
+     border: 2px solid white;
+     padding: 10px 20px;
+     color: white;
+     text-decoration: none;
+     transition: 6s;
+ }
+
+ .diw {
+     display: inline-block;
+
+     padding: 10px 20px;
+     color: black;
+     text-decoration: none;
+     transition: 0.3s;
+ }
+
+ .diw:hover {
+     background: none;
+     color: red
+ }
+
+ .fn:hover {
+     color: crimson;
+     transition: 1s;
+     background-color: seashell
+ }
+
+ #container {
+     padding-right: 9%;
+
+
+     width: 100%;
+     height: 100%;
+
+     margin: 0 auto;
+ }
+
+ .sidebar {
+     float: left;
+     width: 300px;
+     height: 600px;
+     border: 1px solid black;
+     background-color: aqua;
+ }
+
+ body {
+     margin: 0;
+     padding: 0;
+     background: #34495e;
+ }
